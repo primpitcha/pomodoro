@@ -1,0 +1,7 @@
+flet>=0.21.0
+python-dateutil
+fastapi
+uvicorn[standard]
+sqlalchemy
+aiomysql
+pydantic
